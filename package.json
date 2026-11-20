@@ -1,0 +1,11 @@
+{
+  "name": "demo-latortue",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Démo de l'interface d'administration La Tortue, avec des données fictives",
+  "scripts": {
+    "start": "node serve.mjs",
+    "test": "node --test \"test/*.test.mjs\""
+  }
+}
